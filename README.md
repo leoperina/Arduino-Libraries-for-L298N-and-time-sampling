@@ -4,6 +4,7 @@ Some are more advanced than others, but I put them together because they can wor
 
 # NOTE!!!
 Please note that some of the comments might be in italian, which is my native language, be aware of that.
+Also, this whole library has been tested only with Arduino Nano, I strongly believe that it can be used with almost any other Arduino board without sostantial modificatons and on any other board with only minor tweakings, but I have no true proof of that. 
 
 ## introduction
 The libraries which are available are:
