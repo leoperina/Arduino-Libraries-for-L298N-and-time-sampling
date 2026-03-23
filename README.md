@@ -2,6 +2,9 @@
 this repository exists to collect some libraries I've been working on for some time.
 Some are more advanced than others, but I put them together because they can work well together.
 
+# NOTE!!!
+Please note that some of the comments might be in italian, which is my native language, be aware of that.
+
 ## introduction
 The libraries which are available are:
 - accelerometer.h
